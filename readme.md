@@ -58,6 +58,7 @@
 - [kubescape](https://github.com/kubescape/kubescape)
 - [detect-secrets](https://github.com/Yelp/detect-secrets)
 - [k8s-unused-secret-detector](https://github.com/dtan4/k8s-unused-secret-detector)
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPLv3) autonomous penetration testing platform. 50 specialist agents over MCP, 80+ offensive tools, proof of exploitation on every finding, runs locally.
 - [trufflehog](https://github.com/trufflesecurity/trufflehog)
 - [dockle](https://github.com/goodwithtech/dockle)
 - [awesome-k8s-security](https://github.com/magnologan/awesome-k8s-security)
